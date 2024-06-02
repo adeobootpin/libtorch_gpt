@@ -1,2 +1,2 @@
 # libtorch_gpt
-libtorch GPT
+Simple languge model that uses bootpin_tokenizer and libtorch.
